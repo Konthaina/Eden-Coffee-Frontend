@@ -76,6 +76,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
 
-You can easily copy and paste this markdown content into your `README.md` file on GitHub. Let me know if you'd like any further adjustments!
+
+
