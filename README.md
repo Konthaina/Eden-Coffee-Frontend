@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 
 ## 🎥 Live Demo
 A live demo of the application is available at:
-👉 [Eden Coffee POS Demo](#) *(https://eden-coffee-frontend.vercel.app/)*
+👉 [Eden Coffee POS Demo](https://eden-coffee-frontend.vercel.app/) 
 
 ## 📂 Project Structure
 
