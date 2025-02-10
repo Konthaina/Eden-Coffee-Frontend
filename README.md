@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 
 ## 🎥 Live Demo
 A live demo of the application is available at:
-👉 [Eden Coffee POS Demo](#) *(Update with actual demo link when available)*
+👉 [Eden Coffee POS Demo](#) *(https://eden-coffee-frontend.vercel.app/)*
 
 ## 📂 Project Structure
 
@@ -74,4 +74,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 🌟 *Thank you for using Eden Coffee POS System! If you find this project useful, consider giving it a star ⭐ on GitHub!*
-
